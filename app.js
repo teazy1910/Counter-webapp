@@ -1,8 +1,8 @@
 // HTML Elemente bereitstellen
-let displayNumber = document.querySelector("#number");
-let body = document.querySelector("body");
-let main = document.querySelector("main");
-let resetBtn = document.querySelector("#btnReset");
+const displayNumber = document.querySelector("#number");
+const body = document.querySelector("body");
+const main = document.querySelector("main");
+const resetBtn = document.querySelector("#btnReset");
 
 let counter = 0;
 
